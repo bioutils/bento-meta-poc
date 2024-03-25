@@ -4,14 +4,14 @@ simple proof-of-concept and usage of bento-meta
 
 ## Instructions
 
-### get code
+Get code
 ```
 git clone https://github.com/CBIIT/bento-mdf.git
 git clone https://github.com/CBIIT/bento-meta.git
 git clone https://github.com/CBIIT/c3dc-model
 ```
 
-get data 
+Get data 
 ```
 mkdir data
 cp c3dc-model/model-desc/* data/
